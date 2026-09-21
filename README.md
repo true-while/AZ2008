@@ -1,2 +1,2 @@
-# Hello, world!
-## Hello DevOps
+# Hello world!
+## Hello DevOps!
